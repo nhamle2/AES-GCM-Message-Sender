@@ -18,5 +18,11 @@ This project is a Java TCP socket program that uses ECDH (Eliptic-Curve Diffie-H
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
+<p align="center">
+Compilation and Execution (Windows Terminal): <br/>
+<img src="https://imgur.com/cuv1jwO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
 
