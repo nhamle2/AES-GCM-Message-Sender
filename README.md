@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is a Java TCP socket program that uses ECDH (Eliptic-Curve Diffie-Helman) and AES-GCM to send an encrypted message from a client to a server. The client and server will use ECDH to derive a key. Once the key is derived, the client  will prompt the user for a message to send to the server. The client will encrypt this message using AES-GCM encryption algorithm and send the message to the server. The server will then use AES-GCM to decrypt the message and display the decrypted message to the terminal. This project was completed in as a team project, with all members contributing to both client and server applications. 
+This project is a Java TCP socket program that uses ECDH (Eliptic-Curve Diffie-Helman) and AES-GCM to send an encrypted message from a client to a server. The client and server will use ECDH to derive a key. Once the key is derived, the client  will prompt the user for a message to send to the server. The client will encrypt this message using AES-GCM encryption algorithm and send the message to the server. The server will then use AES-GCM to decrypt the message and display the decrypted message to the terminal. This project was completed as a team project, with all members contributing to both client and server applications. 
 <br />
 
 
