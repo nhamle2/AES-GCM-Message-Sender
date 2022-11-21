@@ -17,6 +17,7 @@ This project is a Java TCP socket program that uses ECDH (Elliptic-Curve Diffie-
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
+- <b>VS Code</b>
 
 <h2>Project walk-through:</h2>
 <p align="center">
